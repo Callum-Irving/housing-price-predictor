@@ -3,7 +3,7 @@ import requests
 import api_keys
 
 
-def scrape(file_name):
+def fetch(file_name):
     url = "https://realtor.p.rapidapi.com/properties/v2/list-sold"
 
     querystring = {"city": "Los Angeles", "offset": "0",
