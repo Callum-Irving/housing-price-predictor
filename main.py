@@ -1,4 +1,3 @@
-import os
 import data_fetcher
 import convert_to_csv
 import plot
