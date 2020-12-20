@@ -3,3 +3,4 @@ __pycache__
 api_keys.py
 normal_vals
 model.h5
+venv
